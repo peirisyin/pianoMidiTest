@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "77E9436F-4FD6-4D53-948E-001F328CE885"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15A9466F-E0E4-497C-806B-A6E8435CE435"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PianoHelper/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "15A9466F-E0E4-497C-806B-A6E8435CE435 - d73a6e1ee53811a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PianoHelper.ViewController.(myMIDI in _A4F6845D8726FAC65BDAC5A32AC34E81).getter : PianoHelper.MIDIHardwareListener"
+                  moduleName = "PianoHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peichuan/Documents/Xcode/PianoHelper/PianoHelper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "15A9466F-E0E4-497C-806B-A6E8435CE435 - d73a6e1ee53811a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PianoHelper.ViewController.(myMIDI in _A4F6845D8726FAC65BDAC5A32AC34E81).setter : PianoHelper.MIDIHardwareListener"
+                  moduleName = "PianoHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peichuan/Documents/Xcode/PianoHelper/PianoHelper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "15A9466F-E0E4-497C-806B-A6E8435CE435 - d73a6e1ee5380f24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PianoHelper.ViewController.(myMIDI in _A4F6845D8726FAC65BDAC5A32AC34E81).modify : PianoHelper.MIDIHardwareListener"
+                  moduleName = "PianoHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peichuan/Documents/Xcode/PianoHelper/PianoHelper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "15A9466F-E0E4-497C-806B-A6E8435CE435 - ec0471b497a15f2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PianoHelper.ViewController.(myMIDI in _A4F6845D8726FAC65BDAC5A32AC34E81).modify : PianoHelper.MIDIHardwareListener with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PianoHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peichuan/Documents/Xcode/PianoHelper/PianoHelper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "15A9466F-E0E4-497C-806B-A6E8435CE435 - de18c21bdfb62cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PianoHelper.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PianoHelper.ViewController"
+                  moduleName = "PianoHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peichuan/Documents/Xcode/PianoHelper/PianoHelper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "15A9466F-E0E4-497C-806B-A6E8435CE435 - e9f00a0b43821139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PianoHelper.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PianoHelper.ViewController&gt;"
+                  moduleName = "PianoHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peichuan/Documents/Xcode/PianoHelper/PianoHelper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "230">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25E41303-0D45-437F-A872-B181A5A18354"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PianoHelper/MIDI/MIDIHardwareListener.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1851BF7A-D68B-4279-B370-3140DF8BD9B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PianoHelper/MIDI/MIDIHardwareListener.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
